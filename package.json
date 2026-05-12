@@ -51,7 +51,7 @@
     "@tailwindcss/typography": "^0.5.12",
     "@upstash/redis": "^1.35.5",
     "@vercel/analytics": "^1.5.0",
-    "@vercel/otel": "^1.13.0",
+    "@vercel/otel": "^2.1.2",
     "ai": "^6.0.64",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.0",
